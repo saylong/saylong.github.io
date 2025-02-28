@@ -1,2 +1,2 @@
-- [简介](content1/README.md)
-- [作品](content2/README.md)
+- [简介](content/file1.md)
+- [作品](content/file2.md)
